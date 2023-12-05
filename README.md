@@ -12,7 +12,7 @@ Before you begin, make sure you have the following installed:
 
 ### Installation
 1. Clone the repository:
-   git clone [URL of the repository]
+   git clone [https://github.com/ppsdang/angular-debugging-challenge](https://github.com/ppsdang/angular-debugging-challenge)
 2. Navigate to the project directory:
    cd angular-debugging-challenge
 3. Install the necessary packages:
@@ -38,9 +38,3 @@ Your task is to debug and fix the issues in the application. The application is 
 - `todo.service.ts`
 - Pay attention to Angular concepts like modules, components, services, data binding, and form handling.
 - Use browser developer tools and Angular CLI tools to help identify and fix issues.
-
-## Submission
-After you have completed the challenge, commit your changes with an appropriate message and push them to your repository. Please notify [Contact Person or System] that you have completed the challenge.
-
-## Help
-If you encounter any issues with the initial setup or have any questions, please contact [Contact Information].
